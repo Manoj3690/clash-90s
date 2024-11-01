@@ -1,2 +1,9 @@
 # clash-90s
-The creation of Rock Paper Scissor game had done using HTML, CSS , Javascript..
+
+Built this application using :
+* HTML
+* CSS
+* JavaScript
+
+Clash-90s is deployed here :
+https://manoj3690.github.io/clash-90s/
